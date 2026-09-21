@@ -37,7 +37,7 @@ Each exercise is self-contained. Exercises export published HTML results to `res
 
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html) R2026a or later
 - [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
-- [AI Verification Library for Deep Learning Toolbox&trade;](https://www.mathworks.com/matlabcentral/fileexchange/ai-verification-library-for-deep-learning-toolbox) (Add-On)
+- [AI Verification Library for Deep Learning Toolbox&trade;](https://www.mathworks.com/matlabcentral/fileexchange/118735-ai-verification-library-for-deep-learning-toolbox) (Add-On)
 
 ## Optional Products
 
